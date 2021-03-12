@@ -1,5 +1,4 @@
-### Hi there, welcome to my github 👋  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannesDK)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, welcome to my github 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannesDK)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
